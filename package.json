@@ -1,0 +1,7 @@
+{
+  "name": "edu.viento.unity.activity", 
+  "version": "1.0.0",
+  "displayName": "Viento - UI Activity for Unity",
+  "description": "A library for managing User interaction with Activity which is entry point managed by back-stack",
+  "unity": "2023.3" 
+}
